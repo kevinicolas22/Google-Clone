@@ -1,2 +1,2 @@
 # google-clone
- Clonagem da página do google
+ Clonagem da página do google / google page cloning
